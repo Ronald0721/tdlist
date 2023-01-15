@@ -1,2 +1,0 @@
-# tdlist
-Created with CodeSandbox
